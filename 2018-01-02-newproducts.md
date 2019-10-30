@@ -1,4 +1,4 @@
-—
+---
 
 layout: post
 
@@ -12,6 +12,6 @@ image:
 
 comments: true
 
-—
+---
 
 I just received the new catalog from *Acme Corporation*, and boy am I excited!
